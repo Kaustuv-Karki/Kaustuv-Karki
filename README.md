@@ -13,6 +13,5 @@ I am currently working on Machine Learning and MERN stack and learning new stuff
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaustuv-Karki&theme=nord&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Kaustuv-Karki&icon=5&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
