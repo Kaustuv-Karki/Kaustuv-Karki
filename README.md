@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on Machine Learning and MERN stack and learning new stuff everyday
-
+Full Stack Developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustuvkarki) 
